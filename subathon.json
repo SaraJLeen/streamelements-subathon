@@ -1,0 +1,52 @@
+{
+  "fontColor": {
+    "type": "colorpicker",
+    "label": "Font color",
+    "value": "rgb(255, 255, 255)"
+  },
+  "fontName": {
+    "type": "googleFont",
+    "label": "Select a font:",
+    "value": "Roboto"
+  },
+  "fontSize": {
+    "type": "slider",
+    "label": "Font Size",
+    "value": 20,
+    "min": 0,
+    "max": 100,
+    "step": 1
+  },
+  "baseNumber": {
+    "type": "number",
+    "label": "Base number (it starts at this)",
+    "value": 0,
+    "min": 0,
+    "max": 1000,
+    "step": 1
+  },
+  "subNumber": {
+    "type": "number",
+    "label": "Subs to count as 1 (0 to ignore subs)",
+    "value": 1,
+    "min": 0,
+    "max": 1000,
+    "step": 1
+  },
+  "tipNumber": {
+    "type": "number",
+    "label": "Dollars to count as 1 (0 to ignore tips)",
+    "value": 3,
+    "min": 0,
+    "max": 1000,
+    "step": 1
+  },
+  "bitNumber": {
+    "type": "number",
+    "label": "Bits to count as 1 (0 to ignore bits)",
+    "value": 300,
+    "min": 0,
+    "max": 1000,
+    "step": 1
+  }
+}
