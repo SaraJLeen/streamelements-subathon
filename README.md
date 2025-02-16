@@ -1,5 +1,6 @@
 # streamelements-subathon
-Simple, barebones subathon widget for StreamElements by [Saralene](https://saralene.tv). Simply displays the current number based on the ratios of input provided.
+Simple, barebones subathon widget for StreamElements by [Saralene](https://saralene.tv).
+Simply displays the current number based on the ratios of input provided.
 
 ## Installation
 1. Log into the [StreamElements website](https://streamelements.com/).
