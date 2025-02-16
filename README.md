@@ -4,16 +4,18 @@ Simple, barebones subathon widget for StreamElements by [Saralene](https://saral
 ## Installation
 1. Log into the [StreamElements website](https://streamelements.com/).
 1. In the side menu, click `Streaming Tools`, then `My Overlays`.
-1. Create a new overlay at a size of your liking.
-1. Near the bottom left corner of the overlay editor, click the + symbol.
+1. Create a `New Overlay` at a size of your liking.
+1. Near the bottom left corner of the overlay editor, click the `+` symbol.
 1. Click on `Static/Custom`, then on `Custom Widget`.
 1. Click `Open Editor` on the left sidebar.
-1. In the HTML tab, replace everything with the contents of [the repository's html file](https://raw.githubusercontent.com/SaraJLeen/streamelements-subathon/refs/heads/main/subathon.html).
-1. In the CSS tab, replace everything with the contents of [the repository's css file](https://raw.githubusercontent.com/SaraJLeen/streamelements-subathon/refs/heads/main/subathon.css).
-1. In the JS tab, replace everything with the contents of [the repository's js file](https://raw.githubusercontent.com/SaraJLeen/streamelements-subathon/refs/heads/main/subathon.js).
-1. In the Fields tab, replace everything in there with the contents of [the repository's fields file](https://raw.githubusercontent.com/SaraJLeen/streamelements-subathon/refs/heads/main/subathon.json).
+1. In the `HTML` tab, replace everything with the contents of [the repository's html file](https://raw.githubusercontent.com/SaraJLeen/streamelements-subathon/refs/heads/main/subathon.html).
+1. In the `CSS` tab, replace everything with the contents of [the repository's css file](https://raw.githubusercontent.com/SaraJLeen/streamelements-subathon/refs/heads/main/subathon.css).
+1. In the `JS` tab, replace everything with the contents of [the repository's js file](https://raw.githubusercontent.com/SaraJLeen/streamelements-subathon/refs/heads/main/subathon.js).
+1. In the `Fields` tab, replace everything in there with the contents of [the repository's fields file](https://raw.githubusercontent.com/SaraJLeen/streamelements-subathon/refs/heads/main/subathon.json).
 1. Click on `Done`.
 1. Edit the configuration to your liking on the left.
+1. Click on `Save` when done editing.
+1. Click on the "chain" icon to get the link for your widget.
 
 ## Other instructions
 This widget is based off of the "Goal" data in StreamElements. To reset everything to 0, click on the monitor-with-cog icon near the top-right of the Overlay Editor, then go to Goals, and click on Reset Goals. This should be the only circumstance under which the goals get reset, but PLEASE remember to do this before starting any subathon, since it's the only way to make sure your baseline data is reset.
